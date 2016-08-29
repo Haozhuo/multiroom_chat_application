@@ -1,0 +1,2 @@
+This is a multiroom applicaiton using NodeJS. It allows users to log in with facebook and twitter accounts and then search or establish chatting rooms by their own preferences. Then, they can chat in that specific room.
+For more information, please visit: http://chat-hz.herokuapp.com/
